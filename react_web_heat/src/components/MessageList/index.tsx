@@ -1,6 +1,5 @@
 import styles from "./styles.module.scss";
 import logoImg from "../../assets/logo.svg";
-import imgTemp from "/Users/pedro.correa/source/repos/mobile-apps/mobileService/mobileService/src/assets/img/logo_anchieta.png";
 import { api } from "../../services/api";
 
 import { useEffect, useState } from "react";
