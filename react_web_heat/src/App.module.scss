@@ -12,10 +12,10 @@
 .contentSigned::before {
   content: "";
   height: 100vh;
-  width: 420px;
+  width: 21vw;
   background: url(./assets/background.svg) no-repeat;
   background-position: cover;
   position: absolute;
-  right: -23vh;
+  right: -15vh;
   top: 0;
 }
